@@ -41,6 +41,7 @@ public class Enero_31 {
         
         JOptionPane.showMessageDialog(null,"NOMBRE: "+nombre+"\n"+"EDAD: "+edad+"\n"+
                 "HORAS EXTRAS: "+horas+"\n"+"PAGO SEMANAL: "+pago+"\n");
+        /*solo escribi esto we, ahora esto*/
     }
     
 }
